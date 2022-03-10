@@ -106,3 +106,6 @@ dist
 # vim swap files
 .*.swp
 .*.swo
+
+# Ignore gh-pages build directory
+build/
